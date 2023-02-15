@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class D2Application {
 
-	public static void main(String[] args) {
-		SpringApplication.run(D2Application.class, args);
-	}
+	public static void main(String[] args) {System.out.println("hy");
+		SpringApplication.run(D2Application.class, args);}
 
 }
